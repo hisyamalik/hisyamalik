@@ -29,12 +29,12 @@ name        : "Hisyam MALIK"
 role        : "QA & Software Test Engineer | Freelancer"
 experience  : "6+ years"
 location    : "Jakarta, Indonesia"
-focus       : "Developer", "Manual Test", "Test Automation"
+focus       : "Test Tool Developer", "Manual Test", "Test Automation", "Web Testing"
 available   : true
 languages   : "Bahasa Indonesia", "English"
 ```
 
-Saya seorang **QA Engineer berpengalaman 6+ tahun** yang spesialis dalam membangun test strategy yang solid — dari manual testing hingga automation framework. Saya percaya bahwa kualitas bukan hanya tanggung jawab QA, tapi budaya seluruh tim.
+Saya seorang **QA Engineer berpengalaman 6+ tahun** yang spesialis dalam membangun test strategy yang solid — dari manual testing hingga automation framework. Saya percaya bahwa disetiap kesulitan pasti ada celah kemudahan.
 
 ---
 
@@ -65,45 +65,35 @@ Saya seorang **QA Engineer berpengalaman 6+ tahun** yang spesialis dalam membang
 
 ## 🚀 Project Unggulan
 
-### 🔹 [Nama Project 1](https://github.com/[username]/[repo-1])
-> **[Deskripsi singkat 1 kalimat — masalah apa yang diselesaikan]**
+### 🔹 [Taskoo](https://github.com/[hisyamlik]/[taskoo])
+> **Task lagi overload banget nih? Biarkan taskoo yang ngatur.**
 
-- 🎯 **Goal**: [Misal: Automasi regression test untuk aplikasi e-commerce]
+- 🎯 **Goal**: A simple shared task management website for two collaborators.
 - 🛠️ **Stack**: Playwright · TypeScript · GitHub Actions
-- 📈 **Hasil**: Test coverage naik dari **40% → 85%**, waktu testing turun **60%**
+- 📈 **Hasil**: Belum ada haha
 - 🔗 [Live Demo](https://...) | [Dokumentasi](https://...)
 
 ---
 
-### 🔹 [Nama Project 2](https://github.com/[username]/[repo-2])
-> **[Deskripsi singkat 1 kalimat]**
+### 🔹 [stock-screener](https://github.com/[hisyamalik]/[stock-screener])
+> **Biarkan uang yang bekerja kawan haha**
 
-- 🎯 **Goal**: [Misal: Framework API testing untuk REST & GraphQL]
+- 🎯 **Goal**: Provide stock recommendation and entry signal for forex
 - 🛠️ **Stack**: Python · Pytest · Postman · Newman
-- 📈 **Hasil**: [X] endpoint tercakup, laporan otomatis terintegrasi CI/CD
+- 📈 **Hasil**: Rekomendasi saham harian
 - 🔗 [Demo Video](https://...) | [Dokumentasi](https://...)
-
----
-
-### 🔹 [Nama Project 3](https://github.com/[username]/[repo-3])
-> **[Deskripsi singkat 1 kalimat]**
-
-- 🎯 **Goal**: [Misal: Performance & load testing untuk web app]
-- 🛠️ **Stack**: JMeter · Grafana · InfluxDB
-- 📈 **Hasil**: Identifikasi bottleneck, throughput meningkat **[X]%**
-- 🔗 [Laporan](https://...)
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=[USERNAME]&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[USERNAME]&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=[hisyamalik]&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[hisyamalik]&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=[USERNAME]&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=[hisyamalik]&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
