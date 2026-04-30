@@ -1,13 +1,13 @@
 <!-- BANNER / HEADER ANIMASI -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+[Nama+Kamu]+%F0%9F%91%8B;QA+%26+Software+Test+Engineer;6%2B+Years+Breaking+Things+Professionally+%F0%9F%90%9B;Available+for+Freelance+%F0%9F%9F%A2" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Hisyam+%F0%9F%91%8B;QA+%26+Software+Test+Engineer;6%2B+Years+Breaking+Things+Professionally+%F0%9F%90%9B;Available+for+Freelance+%F0%9F%9F%A2" alt="Typing SVG" />
 </div>
 
 <br/>
 
 <div align="center">
   <!-- Ganti URL dengan foto/avatar kamu -->
-  <img src="https://avatars.githubusercontent.com/[USERNAME]" width="120" style="border-radius:50%" alt="avatar"/>
+  <img src="https://avatars.githubusercontent.com/[hisyamalik]" width="120" style="border-radius:50%" alt="avatar"/>
   
   <h3>🔍 I find bugs before your users do.</h3>
   <p><em>Turning chaos into confidence — one test case at a time.</em></p>
@@ -18,20 +18,20 @@
 ## 🟢 Open for Freelance Opportunities
 
 > 💼 **Tersedia untuk proyek freelance** — QA Automation, Manual Testing, Web & App Testing  
-> 📬 Hubungi saya: **[email@kamu.com]** | [LinkedIn](https://linkedin.com/in/[username]) | [Portfolio](https://[username].github.io)
+> 📬 Hubungi saya: **[hisyamalik88@gmail.com]** | [LinkedIn](https://linkedin.com/in/[hisyammalik]) | [Portfolio](https://[username].github.io)
 
 ---
 
 ## 👨‍💻 Tentang Saya
 
 ```yaml
-name        : "[Nama Lengkap Kamu]"
+name        : "Hisyam MALIK"
 role        : "QA & Software Test Engineer | Freelancer"
 experience  : "6+ years"
-location    : "[Kota, Negara]"
-focus       : ["Test Automation", "Web Testing", "API Testing", "Mobile QA"]
+location    : "Jakarta, Indonesia"
+focus       : "Developer", "Manual Test", "Test Automation"
 available   : true
-languages   : ["Bahasa Indonesia", "English"]
+languages   : "Bahasa Indonesia", "English"
 ```
 
 Saya seorang **QA Engineer berpengalaman 6+ tahun** yang spesialis dalam membangun test strategy yang solid — dari manual testing hingga automation framework. Saya percaya bahwa kualitas bukan hanya tanggung jawab QA, tapi budaya seluruh tim.
